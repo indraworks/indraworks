@@ -1,5 +1,10 @@
 ## Hi there 👋
-
+- 🔭 I’m  micropreneur (rent house and owner of litle grocery-shop
+- 🌱 I’m currently learning on java,java-springboot, react,reactnative,flutter,nodejs......
+    hope with this all of what iam learning i can achieve mygoals as Jr FullStack-Dev
+    and making good apps 
+- 📫 How to reach me: indra.works2020@gmail.com
+- - ⚡ Fun fact: during conversation id like make joke,like sports( martial art muathay/boxing),and trip :))
 <!--
 **indraworks/indraworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
